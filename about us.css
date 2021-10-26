@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+ 
+          background-image: url(https://media.architecturaldigest.in/wp-content/uploads/2020/04/Mumbai-restaurant-COVID-19-2-1.jpg);
+   background-size: cover;
+ 
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+  p{
+      float: justify;
+      color: white;
+  }
